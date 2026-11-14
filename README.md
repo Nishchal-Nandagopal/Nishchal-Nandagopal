@@ -14,10 +14,10 @@ Most models never get checked. Mine get a digital fingerprint *before* the answe
 
 | | |
 |---|---|
-| 💼 **[Ten desks](https://github.com/Nishchal-Nandagopal/finance-showreel)**: M&A, private equity, equity research, asset and wealth management, quant, FP&A, macro and a trading desk, each graded against the real deal, filing or price | **[▶ Watch](https://nishchal-nandagopal.github.io/finance-showreel/)** |
-| 🧭 **[Ten cases](https://github.com/Nishchal-Nandagopal/consulting-showreel)**: strategy to restructuring, one case per practice area, each graded against data it never saw | **[▶ Watch](https://nishchal-nandagopal.github.io/consulting-showreel/)** |
+| 💼 **[Fifteen finance projects](https://github.com/Nishchal-Nandagopal/finance-showreel)**: M&A, private equity, equity research, credit, rates, options, market making, risk, quant, macro and more, each graded against the real deal, filing or price | **[▶ Open](https://nishchal-nandagopal.github.io/finance-showreel/)** |
+| 🧭 **[Fifteen consulting cases](https://github.com/Nishchal-Nandagopal/consulting-showreel)**: strategy to life sciences, one case per practice area, each graded against data it never saw | **[▶ Open](https://nishchal-nandagopal.github.io/consulting-showreel/)** |
 
-Some favourites: rebuilding four banks' valuations on a $48.7B deal, a SELL call on Amkor that's live right now, and a quant idea I killed by my own rules. The graveyard is part of the show.
+Some favourites: rebuilding four banks' valuations on a $48.7B deal, a SELL call on Amkor that's still on the clock, a Starbucks forecast that landed within 0.3 points, and a coal-retirement forecast I got wrong and published anyway. The graveyard is part of the show.
 
 ## What I reach for
 
